@@ -1,4 +1,11 @@
 # terraform-demo
+
+I am using the latest version of terraform.
+#{ % terraform -v
+Terraform v1.1.4
+on darwin_amd64
++ provider registry.terraform.io/hashicorp/aws v3.74.0}#
+
 I have tried implementing the sections from the lecture as per the serial.
 
 > DefRT+SG_18_19 branch include the main.tf file which is for SECTION:18 and SECTION:19.
