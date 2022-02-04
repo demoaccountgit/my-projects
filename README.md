@@ -1,7 +1,8 @@
 # terraform-demo
 
 I am using the latest version of terraform.
-#{ % terraform -v
+
++#{ % terraform -v
 Terraform v1.1.4
 on darwin_amd64
 + provider registry.terraform.io/hashicorp/aws v3.74.0}#
