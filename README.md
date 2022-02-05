@@ -18,3 +18,9 @@ I have tried implementing the sections from the lecture as per the serial.
 > + Create_SSH_key&_script  : This is from Section 22 to 24
   This gives the detailed view on how to create a SSH key pair which can be used to login without password for enhanced security. Also, we utilise the feature of USER DATA feature from AWS and integrating it with Terraform by simply passing a script for various benefits.
   
+> + feature_modules : this branch hold the relevant files which were in use while demonstrating the Module section and its feature.
+
+> + vpc_module_3.11.5: under this section we have made use of existing module of VPC directly from the provider i.e terraform
+
+> + remote_state : Demonstarted how it retrieves state data from a Terraform backend or source. 
+
