@@ -21,6 +21,7 @@ I have tried implementing the sections from the lecture as per the serial.
 > + feature_modules : this branch hold the relevant files which were in use while demonstrating the Module section and its feature.
 
 > + vpc_module_3.11.5: under this section we have made use of existing module of VPC directly from the provider i.e terraform
+Used latest module of VPC i.e 3.11.5, so our demostration is still compatible and valid with the module which is shown in video. (2.66.0)
 
 > + remote_state : Demonstarted how it retrieves state data from a Terraform backend or source. 
 
