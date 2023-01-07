@@ -7,7 +7,7 @@ Terraform v1.1.4
 on darwin_amd64
 + provider registry.terraform.io/hashicorp/aws v3.74.0}#
 
-I have tried implementing the sections from the lecture as per the serial. You can refer to below branches for detailed files and instructions.
+I have tried implementing the sections from the lecture as per the serial from a very great course [Complete Terraform Course - Beginner to Advanced](https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/) from Nana Janashia. You can refer to below branches for detailed files and instructions.
 
 > + DefRT+SG_18_19 branch include the main.tf file which is for SECTION:18 and SECTION:19.
   This includes the demonstration of exercise by using the default component in the HCL such and Default Route and creating the Security group for Firewall         configuration.
